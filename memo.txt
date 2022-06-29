@@ -1,2 +1,9 @@
 backend
  npx prisma studio
+
+github
+  Client ID
+    b6811ffee3d3b5aff7f9
+  Client secrets
+    244333fc91942e5678c45b37d4d17ba15e9f1472 
+  
